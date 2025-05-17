@@ -1,7 +1,7 @@
 # Mr. Paing Soe Tun - Data Analyst Portfolio
 
 ## About
-Hi, I'm Paing Soe Tun! I have an analytical background and over 9 years of experience in RF engineering (2G, 3G, 4G & 5G), technical support, and customer service. I have developed strong expertise in network data analysis, KPI performance evaluation, statistical Data Analysis, and cross-functional coordination to achieve SLA targets.
+Hi, I'm Paing Soe Tun! I have an analytical background and over 9 years of experience in the telecom communication industry, Network Traffic analytical support, and customer service. I have developed strong expertise in network data analysis, KPI performance evaluation, statistical Data Analysis, and cross-functional coordination to achieve SLA targets.
 
 As an NPO Engineer at ZTE Corporation, I played a key role in customer satisfaction management. I delivered the clean data of the insightful reports to senior management and formulated strategic solutions based on performance insights.
 
