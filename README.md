@@ -1,17 +1,20 @@
 # Mr. Paing Soe Tun - Data Analyst Portfolio
 
 ## About
-Hi, I'm Paing Soe Tun! I have an analytical background and over 9 years of experience in the telecom communication industry, Network Traffic analytical support, and customer service. I have developed strong expertise in network data analysis, KPI performance evaluation, statistical Data Analysis, and cross-functional coordination to achieve SLA targets.
 
-As an NPO Engineer at ZTE Corporation, I played a key role in customer satisfaction management. I delivered the clean data of the insightful reports to senior management and formulated strategic solutions based on performance insights.
+Hi, I'm Paing Soe Tun! 
+
+I have an analytical background and over 9 years of experience in the telecom communication industry, Network Traffic analytical support, and customer service. I have developed strong expertise in network data analysis, KPI performance evaluation, statistical Data Analysis, and cross-functional coordination to achieve SLA targets.
+
+As an NPO Engineer (Performance Analyst) at ZTE Corporation, I played a key role in customer satisfaction management. I delivered the clean data of the insightful reports to senior management and formulated strategic solutions based on performance insights.
+
+*I was honored by ZTE Myanmar for identifying a site with zero technical issues but low user engagement, thanks to my insightful report and presentation. I successfully optimized this site to increase traffic and maximize its benefits, all without incurring extra costs. As a result, I was recognized as an Outstanding Staff member in March 2021.*
 
 I graduated with a Bachelor of Science in Physics (2015), an AGTI in Electronics (2011), and an Advanced Technician Diploma in Electronic Engineering (2016). I also accomplished Data Analysis with Python and Databases & SQL for Data Science with Python by IBM from Coursera.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 
-
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -44,11 +47,12 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** offer valuable insights into flight pricing trends, showing how different factors influence airfare.
 
+
 ### E-Commerce Data Analysis in SQL with Python
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`E-Commerce Data Analysis in SQL with Python.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Project: E-Commerce Data Analysis in SQL with Python.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
 **Description:** This project analyzes an E-Commerce dataset sourced from Kaggle to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques. 
 
@@ -69,13 +73,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL, Python, Pandas, Matplotlib.
 
-**Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by' and 'join' methods, and exported data for visualization.
+**Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by', 'join', and categorize 'case' methods, and exported data for visualization.
+
 
 ### Worst-Performance Site analysis (Wk-1 2021)
 
 **Goal:** To analyze the worst-performing sites to take action and the best-performing sites.
 
-**Code:** [`Worst-Performance Site analysis (Wk-1 2021) (Proven Project)`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
+**Code:** [`Proven Sample Project: Worst-Performance Site analysis (Wk-1 2021)`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
 
 **Description:** The dataset contains a list of sample KPI data related to daily Telecom Site performance. In here, the dataset is not completely actual and was randomly exported from (https://mockaroo.com/). The project includes the following steps: data loading, data cleaning, EDA (exploratory data analysis), Power Query Editor, DAX (calculating Down_time_hours, Worst_KPI_sites, and so on).
 
@@ -102,7 +107,7 @@ AGTI - Electronic,
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The best way to showcase skills is by doing and sharing your job done, but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Data analysis with Python](https://www.coursera.org/account/accomplishments/records/EYX5RGZIO7B4) (May 2025) (Coursera - IBM)
 - [Databases and SQL for Data Science with Python ](https://www.coursera.org/account/accomplishments/records/XJ6GTXY58ONQ) (April 2025) (Coursera - IBM)
 - [Data Analyst, all in one course (Python, MySQL, Statistics, PowerBI)] (Feb 2025) (Success Point Training Center)
