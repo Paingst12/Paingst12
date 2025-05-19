@@ -16,7 +16,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics topics.
 
 ## Table of Contents
 - [About](https://github.com/Paingst12/Paingst12#about)
@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Flight Price Analysis](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)  
   - SQL by Python
     - [E-Commerce Data Analysis in SQL with Python](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
-  - Excel / Google Sheets
+  - Excel / Google Sheets (Dashboard)
     - [Excel Network KPI dashboards, proven experiences](https://drive.google.com/drive/folders/1ex8iMwbY22s8UMFBORXdQN5xM4D7fK3B?usp=sharing)
   - Power BI
     - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing).
