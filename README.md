@@ -37,11 +37,11 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### 📌 Project: Flight Price Analysis  
-**Code:** [`Project: Flight Price Analysis`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Project: Flight Price Analysis`](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)
 
 **Goal:** Analyze flight pricing data to identify key factors influencing ticket prices and extract actionable insights. 
 
-**Description:** The project focused on analyzing a dataset of Flight Price with stops. The dataset included Airline, Source, Destination, Total_Stops, Price, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the Price and Total_Stops, and duration with price.
+**Description:** The project focused on analyzing a dataset of Flight prices with stops. The dataset included Airline, Source, Destination, Total_Stops, Price, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the Price and Total_Stops, and duration with price.
 
 **Skills:** data cleaning, data analysis, correlation matrices, data visualization.
 
