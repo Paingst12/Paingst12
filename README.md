@@ -22,13 +22,15 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Paingst12/Paingst12#about)
 - [Portfolio Projects]
   - Python
-    - [Flight Price Analysis](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)  
+    - [Flight Price Analysis, Portfolio Project](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)  
   - SQL by Python
-    - [E-Commerce Data Analysis in SQL with Python](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
+    - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
   - Excel / Google Sheets (Dashboard)
     - [Excel Network KPI dashboards, proven experiences](https://drive.google.com/drive/folders/1ex8iMwbY22s8UMFBORXdQN5xM4D7fK3B?usp=sharing)
   - Power BI
+    - [Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance, Portfolio Project](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
     - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing).
+    
   
 
 ## Portfolio Projects
@@ -74,6 +76,27 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** SQL, Python, Pandas, Matplotlib.
 
 **Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by', 'join', and categorize 'case' methods, and exported data for visualization.
+
+### 📌 Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance
+
+**Goal:** To analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
+
+**Code:** [`Shopify, Sale Dashboard for Customer Purchase Behavior and Transaction Performance`](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
+
+**Description:** The dataset is from Data Tutorial. 
+For DAX and modeling, the formulas are given :\
+- Net_Sale is the sum of 'Subtotal Price". Total_Quantity is the sum of 'Quantity'. Net_Avg_Order_value is the average of 'Subtotal Price'.
+- Total_Customers is the total count of unique customers. Single-order customers are those who ordered once. Repeat customers are those who ordered more than once.
+- Lifetime Value (LTV) is Net_Sale by Total_Customer. Repeat Rate is Repeat_Customer by Total_Customer. Purchase Frequency is the Distinct Count of 'Order Number' by Total_Customer.
+
+*Business Parameter Requirements are*: Net Sales, Total Quantity, Total Customers, Repeat Customers
+- Create a *Business Parameter Requirements* as a *Select measure* field to filter and view the Trend and Map bubble with the selected parameter as the title.
+
+The project includes the following steps: data loading, EDA (exploratory data analysis), DAX (formula is given), Dynamic Trend with Bar and line chart
+
+**Skills:** data cleaning, data analysis, data visualization, Data Modeling (using Parameter Field), and Dynamic Titles with Bar & Chart Trend and Shape Map.
+
+**Technology:** Power BI, DAX, Power Query Editor.
 
 
 ### 📌 Worst-Performance Site analysis (Wk-1 2021)
