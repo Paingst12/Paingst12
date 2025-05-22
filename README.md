@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This project analyzes an E-Commerce dataset sourced from Kaggle to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques. 
 
-## 📂 Files in This Project
+📂 Files in This Project
 - **`data/`** ➝ Contains raw CSV files:
   - `fact_table.csv` – Core transaction details
   - `customer_dim.csv` – Customer-related information
