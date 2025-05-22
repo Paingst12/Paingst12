@@ -34,7 +34,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Project: Flight Price Analysis  
+### 📌 Project: Flight Price Analysis  
 **Code:** [`Project: Flight Price Analysis`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** Analyze flight pricing data to identify key factors influencing ticket prices and extract actionable insights. 
@@ -48,11 +48,11 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** offer valuable insights into flight pricing trends, showing how different factors influence airfare.
 
 
-### E-Commerce Data Analysis in SQL with Python
+### 📌 E-Commerce Data Analysis in SQL with Python
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Project: E-Commerce Data Analysis in SQL with Python.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Project: E-Commerce Data Analysis in SQL with Python.ipynb`](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
 
 **Description:** This project analyzes an E-Commerce dataset sourced from Kaggle to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques. 
 
@@ -76,7 +76,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by', 'join', and categorize 'case' methods, and exported data for visualization.
 
 
-### Worst-Performance Site analysis (Wk-1 2021)
+### 📌 Worst-Performance Site analysis (Wk-1 2021)
 
 **Goal:** To analyze the worst-performing sites to take action and the best-performing sites.
 
