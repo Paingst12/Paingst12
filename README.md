@@ -29,12 +29,14 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Excel Network KPI dashboards, proven experiences](https://drive.google.com/drive/folders/1ex8iMwbY22s8UMFBORXdQN5xM4D7fK3B?usp=sharing)
   - Power BI
     - [Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance, Portfolio Project](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
+    - [ElectroHub's Sale Dashboard Analysis, Portfolio Project](https://drive.google.com/drive/folders/1CD_xsJL27wXQSKJGQQZ2Oi1OrCmOySyp?usp=drive_link)
     - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing).
     
   
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
 
 ### 📌 Project: Flight Price Analysis  
 **Code:** [`Project: Flight Price Analysis`](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)
@@ -77,6 +79,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by', 'join', and categorize 'case' methods, and exported data for visualization.
 
+
 ### 📌 Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance
 
 **Goal:** To analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
@@ -96,7 +99,20 @@ The project includes the following steps: data loading, EDA (exploratory data an
 
 **Skills:** data cleaning, data analysis, data visualization, Data Modeling (using Parameter Field), and Dynamic Titles with Bar & Chart Trend and Shape Map.
 
-**Technology:** Power BI, DAX, Power Query Editor.
+**Technology:** Power BI, DAX, Power Query Editor, Visualization.
+
+
+### 📌 ElectroHub's Sale Dashboard Analysis
+
+**Goal:** To review the Sales Trend and Discounted products by year and analyze on the top/bottom 5 sales/profit/quantity by product with promotion.
+
+**Code:** [`ElectroHub's Sale Dashboard Analysis, Portfolio Project`](https://drive.google.com/drive/folders/1CD_xsJL27wXQSKJGQQZ2Oi1OrCmOySyp?usp=drive_link)
+
+**Description:**  An in-depth analysis of ElectroHub's sales performance, profit trends, product performance, and customer insights. Users can leverage interactive filters and visualizations to explore key business metrics and optimize decision-making.
+
+**Skills:** data cleaning & transforming, data analysis, data visualization.
+
+**Technology:** PowerBI, DAX, Power Query Editor, Visualization.
 
 
 ### 📌 Worst-Performance Site analysis (Wk-1 2021)
