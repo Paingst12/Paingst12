@@ -24,13 +24,13 @@ This is a repository to showcase skills, share projects and track my progress in
   - Python
     - [Flight Price Analysis, Portfolio Project](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)  
   - SQL by Python
-    - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
+    - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://github.com/Paingst12/ECommerce_Analysis-by-python/tree/main)
   - Excel / Google Sheets (Dashboard)
-    - [Excel Network KPI dashboards, proven experiences](https://drive.google.com/drive/folders/1ex8iMwbY22s8UMFBORXdQN5xM4D7fK3B?usp=sharing)
+    - [Excel Network KPI dashboards, proven experiences](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence)
   - Power BI
     - [Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance, Portfolio Project](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
     - [ElectroHub's Sale Dashboard Analysis, Portfolio Project](https://drive.google.com/drive/folders/1CD_xsJL27wXQSKJGQQZ2Oi1OrCmOySyp?usp=drive_link)
-    - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing).
+    - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence).
     
   
 
