@@ -26,11 +26,11 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL by Python
     - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://github.com/Paingst12/ECommerce_Analysis-by-python/tree/main)
   - Excel / Google Sheets (Dashboard)
-    - [Excel Network KPI dashboards, proven experiences](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence)
+    - [Excel Network KPI dashboards, proven Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence)
   - Power BI
     - [Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance, Portfolio Project](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
     - [ElectroHub's Sale Dashboard Analysis, Portfolio Project](https://drive.google.com/drive/folders/1CD_xsJL27wXQSKJGQQZ2Oi1OrCmOySyp?usp=drive_link)
-    - [Worst-Performance Site analysis (Wk-1 2021), proven experiences](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence).
+    - [Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence).
     
   
 
@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Project: E-Commerce Data Analysis in SQL with Python.ipynb`](https://drive.google.com/drive/folders/1e2jt-F7WssJGoAQRFHXoHOR_0TG_4-4l?usp=sharing)
+**Code:** [`Project: E-Commerce Data Analysis in SQL with Python.ipynb`](https://github.com/Paingst12/ECommerce_Analysis-by-python/tree/main)
 
 **Description:** This project analyzes an E-Commerce dataset sourced from Kaggle to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques. 
 
@@ -119,7 +119,7 @@ The project includes the following steps: data loading, EDA (exploratory data an
 
 **Goal:** To analyze the worst-performing sites to take action and the best-performing sites.
 
-**Code:** [`Proven Sample Project: Worst-Performance Site analysis (Wk-1 2021)`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
+**Code:** [`Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
 
 **Description:** The dataset contains a list of sample KPI data related to daily Telecom Site performance. In here, the dataset is not completely actual and was randomly exported from (https://mockaroo.com/). The project includes the following steps: data loading, data cleaning, EDA (exploratory data analysis), Power Query Editor, DAX (calculating Down_time_hours, Worst_KPI_sites, and so on).
 
@@ -147,6 +147,7 @@ AGTI - Electronic,
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done, but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Microsoft Certified: Power Bi Data Analyst Associate](https://learn.microsoft.com/en-us/users/paingsoetun-4383/credentials/2e633a85669f5356)
 - [Data analysis with Python](https://www.coursera.org/account/accomplishments/records/EYX5RGZIO7B4) (May 2025) (Coursera - IBM)
 - [Databases and SQL for Data Science with Python ](https://www.coursera.org/account/accomplishments/records/XJ6GTXY58ONQ) (April 2025) (Coursera - IBM)
 - [Data Analyst, all in one course (Python, MySQL, Statistics, PowerBI)] (Feb 2025) (Success Point Training Center)
