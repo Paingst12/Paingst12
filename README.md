@@ -4,9 +4,18 @@
 
 Hi, I'm Paing Soe Tun! 
 
-I have an analytical background and over 9 years of experience in the Telecommunication Service Industry, Network Traffic analytical support, and customer service. I have developed strong expertise in network data analysis, KPI performance evaluation, statistical Data Analysis, and cross-functional coordination to achieve SLA targets.
+     I am a Microsoft Certified: Power BI Data Analyst Associate (PL-300) with proven data-driven experience in the telecommunications industry. Currently, I serve as a Trust & Safety Associate at Accenture, where I contribute to platform integrity and content policy enforcement.
+Proven Telecom Analytics Expertise:
+     With a strong background as a Radio Optimization and Wireless Network Engineer, I have extensive experience in managing network KPIs, conducting root cause analysis, and performing link testing for large-scale ISP projects. I specialize in transforming complex technical network data into actionable stability and performance insights.
+Technical Evolution:
+     To further my passion for data-driven storytelling, I have built a solid foundation in a modern analytical stack, including Advanced Excel (VBA & Macros), SQL, and Data Analysis with Python
+Key Project Highlight:
 
-As an NPO Engineer (Performance Analyst) at ZTE Corporation, I played a key role in customer satisfaction management. I delivered the clean data of the insightful reports to senior management and formulated strategic solutions based on performance insights.
+Core Technical Stack:
+📊 BI Tools: Microsoft Power BI (PL-300 Certified), Excel (Advanced)
+🐍 Programming & DB: Python (Pandas, Matplotlib, Seaborn), SQL, SQLite3
+⚙️ Process: ETL, Data Modeling, KPI Management, Performance Tuning
+I am eager to apply my unique combination of technical domain expertise and advanced data analytics to help organizations optimize performance and strategic decision-making.
 
 *I was honored by ZTE Myanmar for identifying a site with zero technical issues but low user engagement, thanks to my insightful report and presentation. I successfully optimized this site to increase traffic and maximize its benefits, all without incurring extra costs. As a result, I was recognized as an Outstanding Staff member in March 2021.*
 
@@ -28,9 +37,10 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel / Google Sheets (Dashboard)
     - [Excel Network KPI dashboards, proven Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence)
   - Power BI
+    - [Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence).
     - [Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance, Portfolio Project](https://drive.google.com/drive/folders/1tY-bBj9taON1gOPfbpU1yRHW__OVwzuR?usp=sharing)
     - [ElectroHub's Sale Dashboard Analysis, Portfolio Project](https://drive.google.com/drive/folders/1CD_xsJL27wXQSKJGQQZ2Oi1OrCmOySyp?usp=drive_link)
-    - [Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence](https://github.com/Paingst12/Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence).
+
     
   
 
@@ -79,6 +89,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Data Cleaning and manipulation by Python, and merging 5-Dim tables(customer_dim.csv, item_dim.csv, store_dim.csv, time_dim.csv, Trans_dim.csv) with fact_table.csv on the Foreign_Key and Primary_key by SQL. Depending on data insight, used 'group by', 'join', and categorize 'case' methods, and exported data for visualization.
 
+### 📌 Worst-Performance Site analysis (Wk-1 2021)
+
+**Goal:** To analyze the worst-performing sites to take action and the best-performing sites.
+
+**Code:** [`Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
+
+**Description:** The dataset contains a list of sample KPI data related to daily Telecom Site performance. In here, the dataset is not completely actual and was randomly exported from (https://mockaroo.com/). The project includes the following steps: data loading, data cleaning, EDA (exploratory data analysis), Power Query Editor, DAX (calculating Down_time_hours, Worst_KPI_sites, and so on).
+
+**Skills:** data cleaning, data analysis, data visualization.
+
+**Technology:** PowerBI, DAX, Power Query Editor.
 
 ### 📌 Shopify, Sales Dashboard for Customer Purchase Behavior and Transaction Performance
 
@@ -115,17 +136,7 @@ The project includes the following steps: data loading, EDA (exploratory data an
 **Technology:** PowerBI, DAX, Power Query Editor, Visualization.
 
 
-### 📌 Worst-Performance Site analysis (Wk-1 2021)
 
-**Goal:** To analyze the worst-performing sites to take action and the best-performing sites.
-
-**Code:** [`Proven-Project-Portfolio-Telecom-Network-Performance-Analytics-Business-Intelligence`](https://drive.google.com/drive/folders/1_KxosSlMwRnZZPnZXVoPvU7PkYAnvs-Z?usp=sharing)
-
-**Description:** The dataset contains a list of sample KPI data related to daily Telecom Site performance. In here, the dataset is not completely actual and was randomly exported from (https://mockaroo.com/). The project includes the following steps: data loading, data cleaning, EDA (exploratory data analysis), Power Query Editor, DAX (calculating Down_time_hours, Worst_KPI_sites, and so on).
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** PowerBI, DAX, Power Query Editor.
 
 
 
