@@ -4,17 +4,18 @@
 
 Hi, I'm Paing Soe Tun! 
 
-     I am a Microsoft Certified: Power BI Data Analyst Associate (PL-300) with proven data-driven experience in the telecommunications industry. Currently, I serve as a Trust & Safety Associate at Accenture, where I contribute to platform integrity and content policy enforcement.
+I am a Microsoft Certified: Power BI Data Analyst Associate (PL-300) with proven data-driven experience in the telecommunications industry. Currently, I serve as a Trust & Safety Associate at Accenture, where I contribute to platform integrity and content policy enforcement.
 Proven Telecom Analytics Expertise:
-     With a strong background as a Radio Optimization and Wireless Network Engineer, I have extensive experience in managing network KPIs, conducting root cause analysis, and performing link testing for large-scale ISP projects. I specialize in transforming complex technical network data into actionable stability and performance insights.
+With a strong background as a Radio Optimization and Wireless Network Engineer, I have extensive experience in managing network KPIs, conducting root cause analysis, and performing link testing for large-scale ISP projects. I specialize in transforming complex technical network data into actionable stability and performance insights.
 Technical Evolution:
-     To further my passion for data-driven storytelling, I have built a solid foundation in a modern analytical stack, including Advanced Excel (VBA & Macros), SQL, and Data Analysis with Python
+To further my passion for data-driven storytelling, I have built a solid foundation in a modern analytical stack, including Advanced Excel (VBA & Macros), SQL, and Data Analysis with Python
 Key Project Highlight:
 
 Core Technical Stack:
 📊 BI Tools: Microsoft Power BI (PL-300 Certified), Excel (Advanced)
 🐍 Programming & DB: Python (Pandas, Matplotlib, Seaborn), SQL, SQLite3
 ⚙️ Process: ETL, Data Modeling, KPI Management, Performance Tuning
+
 I am eager to apply my unique combination of technical domain expertise and advanced data analytics to help organizations optimize performance and strategic decision-making.
 
 *I was honored by ZTE Myanmar for identifying a site with zero technical issues but low user engagement, thanks to my insightful report and presentation. I successfully optimized this site to increase traffic and maximize its benefits, all without incurring extra costs. As a result, I was recognized as an Outstanding Staff member in March 2021.*
