@@ -4,7 +4,7 @@
 
 Hi, I'm Paing Soe Tun! 
 
-I am a Microsoft Certified: Power BI Data Analyst Associate (PL-300) with proven data-driven experience in the telecommunications industry. Currently, I serve as a Trust & Safety Associate at Accenture, where I contribute to platform integrity and content policy enforcement.
+I am I am an MBA-educated and Microsoft Certified: Power BI Data Analyst Associate (PL-300) with proven data-driven experience in the telecommunications industry. Currently, I serve as a Trust & Safety Associate at Accenture, where I contribute to platform integrity and content policy enforcement.
 
 Proven Telecom Analytics Expertise:
 With a strong background as a Radio Optimization and Wireless Network Engineer, I have extensive experience in managing network KPIs, conducting root cause analysis, and generating reports to drive cross-functional SLA compliance. 
@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Paingst12/Paingst12#about)
 - [Portfolio Projects]
   - Python
-    - [Flight Price Analysis, Portfolio Project](https://drive.google.com/drive/folders/1oKJq6PJzyvE42_grjMw3FCyKBqfZh84R?usp=sharing)  
+    - [Flight Price Analysis, Portfolio Project](https://github.com/Paingst12/Flight-Price-Analysis-scikit-learn-Pandas-Numpy-Matplotlib-Seaborn-/blob/main/README.md)  
   - SQL by Python
     - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://github.com/Paingst12/ECommerce_Analysis-by-python/tree/main)
   - Excel / Google Sheets (Dashboard)
