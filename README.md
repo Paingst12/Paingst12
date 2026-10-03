@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Paingst12/Paingst12#about)
 - [Portfolio Projects]
   - Python
-    - [Flight Price Analysis, Portfolio Project](https://github.com/Paingst12/Flight-Price-Analysis-scikit-learn-Pandas-Numpy-Matplotlib-Seaborn-/blob/main/README.md)  
+    - [Flight Price Exploratory Data Analysis & Predictive Modeling, Portfolio Project](https://github.com/Paingst12/Flight-Price-Exploratory-Data-Analysis-Predictive-Modeling)  
   - SQL by Python
     - [E-Commerce Data Analysis in SQL with Python, Portfolio Project](https://github.com/Paingst12/ECommerce_Analysis-by-python/tree/main)
   - Excel / Google Sheets (Dashboard)
